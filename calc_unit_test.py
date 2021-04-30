@@ -43,6 +43,6 @@ class test_calc(ut.TestCase):
 
 if __name__ == '__main__': 
 	ut.main()
-
+  
 
 #In order to run use python -m unittest -v calc_unit_test.py

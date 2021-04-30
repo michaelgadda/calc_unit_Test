@@ -32,7 +32,7 @@ class calculator():
 
 		return product
 
-	def divide(a, b):
+	def divide(a, b): 
 		try: 
 			
 			number_check = float(a)
